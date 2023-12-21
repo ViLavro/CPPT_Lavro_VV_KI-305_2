@@ -1,0 +1,188 @@
+[2023-11-07 at 20:03:11 EET] Logger start to work
+[2023-11-07 at 20:03:11 EET] [INFO] AudioPlayer constructor called
+[2023-11-07 at 20:03:11 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 20:03:11 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 20:03:11 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 20:03:11 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 20:03:11 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 20:03:11 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 20:03:11 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 20:03:11 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 20:03:11 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 20:03:11 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 20:03:11 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 20:03:11 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:21:25 EET] Logger start to work
+[2023-11-07 at 22:21:25 EET] [INFO] AudioPlayer constructor called
+[2023-11-07 at 22:21:25 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:21:25 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:21:25 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:21:25 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:21:25 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:21:25 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:21:25 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:21:25 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:21:25 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:21:25 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:21:25 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:21:25 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:23:40 EET] Logger start to work
+[2023-11-07 at 22:23:40 EET] [INFO] AudioPlayer constructor called
+[2023-11-07 at 22:23:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:23:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:23:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:23:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:23:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:23:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:23:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:23:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:23:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:23:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:23:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:23:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:23:40 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-07 at 22:24:07 EET] Logger start to work
+[2023-11-07 at 22:24:07 EET] [INFO] AudioPlayer constructor called
+[2023-11-07 at 22:24:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:24:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:24:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:24:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:24:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-07 at 22:24:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:24:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:24:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:24:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:24:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:24:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:24:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-07 at 22:24:07 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-20 at 17:55:16 EET] Logger start to work
+[2023-11-20 at 17:55:16 EET] [INFO] AudioPlayer constructor called
+[2023-11-20 at 17:55:16 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:55:16 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:55:16 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:55:16 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:55:16 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:55:16 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:55:16 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:55:16 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:55:16 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:55:16 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:55:16 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:55:16 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:55:16 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-20 at 17:56:13 EET] Logger start to work
+[2023-11-20 at 17:56:13 EET] [INFO] AudioPlayer constructor called
+[2023-11-20 at 17:56:13 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:56:13 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:56:13 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:56:13 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:56:13 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-20 at 17:56:13 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:56:13 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:56:13 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:56:13 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-20 at 17:56:13 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-26 at 15:03:07 EET] Logger start to work
+[2023-11-26 at 15:03:07 EET] [INFO] AudioPlayer constructor called
+[2023-11-26 at 15:03:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:03:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:03:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:03:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:03:07 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:03:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:03:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:03:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:03:07 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:03:07 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-26 at 15:07:22 EET] Logger start to work
+[2023-11-26 at 15:07:22 EET] [INFO] AudioPlayer constructor called
+[2023-11-26 at 15:07:22 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:07:22 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:07:22 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:07:22 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:07:22 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:07:22 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:07:22 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:07:22 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:07:22 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:07:22 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-26 at 15:07:22 EET] [INFO] AudioPlayer DeleteSong method was called
+[2023-11-26 at 15:08:10 EET] Logger start to work
+[2023-11-26 at 15:08:10 EET] [INFO] AudioPlayer constructor called
+[2023-11-26 at 15:08:10 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:08:10 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:08:10 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:08:10 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:08:10 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:08:10 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:08:10 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:08:10 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:08:10 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:08:10 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-26 at 15:08:10 EET] [INFO] AudioPlayer DeleteSong method was called
+[2023-11-26 at 15:09:51 EET] Logger start to work
+[2023-11-26 at 15:09:51 EET] [INFO] AudioPlayer constructor called
+[2023-11-26 at 15:09:51 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:09:51 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:09:51 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:09:51 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:09:51 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-26 at 15:09:51 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:09:51 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:09:51 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:09:51 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-26 at 15:09:51 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-28 at 16:58:15 EET] Logger start to work
+[2023-11-28 at 16:58:15 EET] [INFO] AudioPlayer constructor called
+[2023-11-28 at 16:58:15 EET] [INFO] AudioPlayer constructor called
+[2023-11-28 at 16:58:15 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 16:58:15 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 16:58:15 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 16:58:15 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 16:58:15 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 16:58:15 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 16:58:15 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 16:58:15 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 16:58:15 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 16:58:15 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-28 at 17:00:54 EET] Logger start to work
+[2023-11-28 at 17:00:54 EET] [INFO] AudioPlayer constructor called
+[2023-11-28 at 17:00:54 EET] [INFO] AudioPlayer constructor called
+[2023-11-28 at 17:00:54 EET] [INFO] AudioPlayer constructor called
+[2023-11-28 at 17:00:54 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:00:54 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:00:54 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:00:54 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:00:54 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:00:54 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 17:00:54 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 17:00:54 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 17:00:54 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 17:00:54 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-11-28 at 17:01:40 EET] Logger start to work
+[2023-11-28 at 17:01:40 EET] [INFO] AudioPlayer constructor called
+[2023-11-28 at 17:01:40 EET] [INFO] AudioPlayer constructor called
+[2023-11-28 at 17:01:40 EET] [INFO] AudioPlayer constructor called
+[2023-11-28 at 17:01:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:01:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:01:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:01:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:01:40 EET] [INFO] AudioPlayer AddSong method was called
+[2023-11-28 at 17:01:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 17:01:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 17:01:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 17:01:40 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-11-28 at 17:01:40 EET] [INFO] TurnOnNextSong AudioPlayer method was called
+[2023-12-17 at 21:24:43 EET] Logger start to work
+[2023-12-17 at 21:24:43 EET] [INFO] AudioPlayer constructor called
+[2023-12-17 at 21:24:43 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-17 at 21:24:43 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-17 at 21:24:43 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-17 at 21:24:43 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-17 at 21:24:43 EET] [INFO] AudioPlayer AddSong method was called
+[2023-12-17 at 21:24:43 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-12-17 at 21:24:43 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-12-17 at 21:24:43 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-12-17 at 21:24:43 EET] [INFO] TurnPrevNextSong AudioPlayer method was called
+[2023-12-17 at 21:24:43 EET] [INFO] TurnOnNextSong AudioPlayer method was called
